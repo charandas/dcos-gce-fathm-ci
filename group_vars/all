@@ -1,13 +1,13 @@
 ---
-project: trek-trackr
+project: fathm-ci
 
-subnet: default-6f68d4d6fabcb680
+subnet: ci-subnet-10us
 
-login_name: ajazam
+login_name: fathm
 
-bootstrap_public_ip: 10.132.0.2
+bootstrap_public_ip: 192.168.5.2
 
-zone: europe-west1-c
+zone: us-east1-b
 
 
 
